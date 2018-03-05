@@ -8,16 +8,13 @@ body {
 	background-size: cover;
 	background-repeat: no-repeat;
 	font-family: 'Actor', sans-serif;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
+	
 }
 
 header.subscribe {
-	/*display: flex;
+	display: flex;
 	flex-direction: column;
-	justify-content: center;*/
+	justify-content: center;
 	text-align: center;
 	margin-top: 6%;
 	/*padding: 2%;*/
