@@ -8,6 +8,9 @@ body {
 	background-size: cover;
 	background-repeat: no-repeat;
 	font-family: 'Actor', sans-serif;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
 }
 
 header.subscribe {
