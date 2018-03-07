@@ -6,8 +6,10 @@ body, html {
 body {
 	background-image: url(dhaval-parmar-531583-unsplash.jpg);
 	background-size: cover;
+	background-position: center;
 	background-repeat: no-repeat;
 	font-family: 'Actor', sans-serif;
+	height: 100vh;
 }
 
 header.subscribe {
