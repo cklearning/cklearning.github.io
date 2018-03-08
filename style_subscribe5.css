@@ -1,0 +1,73 @@
+body, html {
+	width: 100%;
+	height: 100%
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background-image: url(dhaval-parmar-531583-unsplash.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 100vh;	
+	font-family: 'Actor', sans-serif;
+}
+
+header.subscribe {
+	text-align: center;
+	margin-top: 4%;
+	color: #009934;
+	text-transform: uppercase;
+	}
+
+
+.form {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	/*color: #0066ff;*/
+	color: #006cff;
+	padding: 4%;
+	font-weight: bold;
+	font-size: 125%;
+}
+
+#scribe {
+	display: inline;
+	border-bottom: 2px solid #6600cc;
+}
+
+.text {
+	background-color: #e5ccff;
+}
+
+.button {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	padding-top: 2%;
+	
+}
+
+.btn-md {
+	background-color: orange;
+	border: 2px solid #210A91;
+	color: #210A91/*#0066ff*/;
+	font-weight: bold;
+	padding: 1rem 2rem; 
+}
+
+.btn-md:hover {
+	background-color: purple;
+	cursor: pointer;
+	transform: scale(1.05);
+}
+
+footer {
+	clear:both;
+	margin-top: 15%;
+	color: blue;
+	color: #006cff;
+	font-size: 75%;
+}
