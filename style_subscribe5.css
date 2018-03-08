@@ -58,14 +58,15 @@ header.subscribe {
 }
 
 .btn-md:hover {
-	background-color: purple;
+	background-color: #6600cc;
 	cursor: pointer;
 	transform: scale(1.05);
 }
 
 footer {
-	clear:both;
 	margin-top: 15%;
 	color: #006cff;
+	margin-bottom: 0;
 	font-size: 75%;
+	clear:both;
 }
