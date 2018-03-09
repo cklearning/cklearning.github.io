@@ -26,7 +26,7 @@ body {
 }
 
 #hline {
-	display: inline;
+	display: inline-block;
 	border-bottom: 3px solid #6600cc;
 	color: #009934;
 	text-transform: uppercase;
