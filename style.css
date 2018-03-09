@@ -25,8 +25,13 @@ body {
 
 }
 
+h1 {
+	display: inline;
+	white-space: nowrap;
+}
+
 #hline {
-	display: inline-block;
+	display: inline;
 	border-bottom: 3px solid #6600cc;
 	color: #009934;
 	text-transform: uppercase;
