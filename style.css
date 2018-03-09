@@ -27,7 +27,7 @@ body {
 
 h1 {
 	display: inline;
-	/*white-space: nowrap;*/
+	white-space: nowrap;
 }
 
 #hline {
