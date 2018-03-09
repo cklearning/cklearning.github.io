@@ -19,7 +19,7 @@ body {
 	align-items: center;
 	font-family: 'Actor', sans-serif;
 	padding-top: 3%;
-	margin-top: 6%;
+	margin-top: 15%;
 	margin-bottom: 6%;
 	text-align: center;
 
@@ -27,7 +27,7 @@ body {
 
 h1 {
 	display: inline;
-	white-space: nowrap;
+	/*white-space: nowrap;*/
 }
 
 #hline {
@@ -63,7 +63,6 @@ h1 {
 }
 
 footer {
-	margin-top: 15%;
 	color: #006cff;
 	margin-bottom: 0;
 	font-size: 75%;
